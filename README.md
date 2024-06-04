@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NicolasBustosSalazar
-- 👀 I’m interested in web deveolopment and front end desing
-- 🌱 I’m currently learning Full Stack Development
-- 📫 How to reach me 
+- 👋 Hola! Soy @NicolasBustosSalazar
+- 👀 Estoy interesado en el desarrollo web y diseño frontend
+- 🌱 Actualmente estoy aprendiendo Full Stack Development
+- 📫 Contactame aqui!
 nicobustos84@gmail.com
 <!---
 NicolasBustosSalazar/NicolasBustosSalazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
